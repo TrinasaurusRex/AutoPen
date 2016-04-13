@@ -1,0 +1,8 @@
+{
+	"name": "autoPen",
+	"description": "Collabrative automatic writing utility",
+	"version": "0.0.1",
+	"dependencies": {
+		"express": "3.4.x"
+	}
+}
